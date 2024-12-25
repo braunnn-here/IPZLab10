@@ -1,0 +1,3 @@
+C:\Users\User\source\repos\IPZLab5\IPZLab5\x64\Debug\IPZLab5.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\IPZLab5\IPZLab5\x64\Debug\IPZLab5.MyForm.resources
+C:\Users\User\source\repos\IPZLab5\IPZLab5\x64\Debug\IPZLab5.vcxproj.GenerateResource.cache
